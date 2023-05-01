@@ -13,3 +13,6 @@ Once all these tables and columns had been established, the tables were populate
 These columns were always containing Null values. No attempt to populate them worked, either in SQL or jupyter notebook. I treid re-establishing the foreign keys, populate them with the values of other columns, add the columns to a .csv file and then establish a foreign key and populate them... Nothing worked.
 
 So this repository includes all I tried. From the python and SQL code, to the created structures and relationships between tables.
+
+
+
